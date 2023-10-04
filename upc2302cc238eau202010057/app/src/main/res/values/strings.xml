@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">upc2302cc238eau202010057</string>
+    <string name="search_a_number_of_persons">Search a number of persons</string>
+    <string name="searchicon">SearchIcon</string>
+    <string name="to_see_changes_enter_again_to_favorite_section">To see changes enter again to favorite section</string>
+    <string name="add_persons_to_favorites_to_see_results">Add persons to favorites to see results.</string>
+</resources>
